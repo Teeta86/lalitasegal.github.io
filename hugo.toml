@@ -1,4 +1,9 @@
 baseURL = 'https://teeta86.github.io/lalitasegal.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Lalita Segal'
 theme = 'ananke'
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 10
+    
