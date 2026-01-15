@@ -1,4 +1,6 @@
 baseURL: "https://teeta86.github.io/lalitasegal.github.io/"
+canonifyURLs: true
+relativeURLs: true
 languageCode: "en-us"
 title: "Lalita Segal"
 theme: hugo-profile
