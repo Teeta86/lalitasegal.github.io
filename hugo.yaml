@@ -115,7 +115,7 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Lalita Segal"
-    subtitle: "Python Developer"
+    subtitle: "Developer"
     content: "Welcome to my portfolio. I specialize in building clean, efficient code."
     image: "/images/profile.jpg"
     bottomImage:

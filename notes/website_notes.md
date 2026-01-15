@@ -8,3 +8,4 @@
 
 Code for adding an image in the blog: 
 ![Description of photo](/images/your-photo.jpg)
+
